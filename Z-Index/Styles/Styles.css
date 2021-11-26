@@ -2,24 +2,27 @@
 }
 #d1 {
 	left: 70px;
+	top: 40px;
 	z-index: -1;
 }
 .d2{
-
-left: 140px;
-z-index: -2;
+	left: 140px;
+	top: 80px;
+	z-index: -2;
 }
 #d2 {
 	left: 210px;
+	top: 120px;
 	z-index: -3;
 }
 .d3 {
 	left: 280px;
+	top: 160px;
 	z-index: -4;
 }
 div {
 	background-color: rgba(101, 254, 254, 0.6);
-	border: solid #4D0084;
+	border: solid rgba(77, 0, 132, 0.6);
 	height: 100px;
 	width: 100px;
 	position: absolute;
