@@ -1,0 +1,33 @@
+.d1 {
+}
+#d1 {
+	left: 70px;
+	z-index: -1;
+}
+.d2{
+
+left: 140px;
+z-index: -2;
+}
+#d2 {
+	left: 210px;
+	z-index: -3;
+}
+.d3 {
+	left: 280px;
+	z-index: -4;
+}
+div {
+	background-color: rgba(101, 254, 254, 0.6);
+	border: solid #4D0084;
+	height: 100px;
+	width: 100px;
+	position: absolute;
+	top: ;
+}
+p {
+	position: relative;
+	top: 4px;
+	font-size: 20px;
+
+}
